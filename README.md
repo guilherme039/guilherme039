@@ -1,4 +1,4 @@
-### Ola! Eu sou Guilherme Nunes (Gz) Sou apaixonado por Tecnologia principalmente na parte de segurança da Informação 🙂
+### Opa! Eu sou Guilherme (Gz) Sou apaixonado por Tecnologia principalmente na parte de segurança da Informação 🙂
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gzkxx)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHsLWyRW9v2TD3L3oL193ng)
