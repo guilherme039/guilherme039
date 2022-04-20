@@ -7,7 +7,7 @@
 
 ![guilherme039 GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme039&show_icons=true&theme=tokyonight)
 
-# Tecnologias Usadas
+# Tecnologias 
 
 <divi style="display: inline_block"><br/>
  <img align="center" alt="Dev-htm15" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -15,6 +15,9 @@
  <img align="center" alt="Dev-js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img align="center" alt="Dev-c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  <img align="center" alt="Dev-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ <img align="center" alt="Dev-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ <img align="center" alt="Dev-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+ 
   </div> 
  
 
