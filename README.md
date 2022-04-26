@@ -1,9 +1,12 @@
-### Oops! I'm Guilherme (Gz) Worked as a Computer Science Intern and I'm passionate about Technology, programming, systems, especially in the Information Security part �🙂
+🙂 Oops! Pleasure I'm Guilherme (Gz) | 
+💻 I study Computer Science |
+🔱 The world is not a good place, but you can be a good guy in the world 
 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilher_fnsilva/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-fernandes-nunes-7b98a7234/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gzkxx)
 
 ![guilherme039 GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme039&show_icons=true&theme=tokyonight)
 
