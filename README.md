@@ -1,6 +1,6 @@
 🙂 Oops! Pleasure I'm Guilherme (Gz) | 
 💻 I study Computer Science |
-🔱 The world is not a good place, but you can be a good guy in the world 
+
 
 
 
