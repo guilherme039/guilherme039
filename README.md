@@ -1,5 +1,5 @@
 🙂 Oops! Pleasure I'm Guilherme (Gz) | 
-💻 I study Computer Science |
+💻 I do Computer Science |
 
 
 
