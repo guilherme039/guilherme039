@@ -12,17 +12,18 @@ Oi, sou o Guilherme! Estudante de Ciência da Computação, atuo no desenvolvime
   <a href="https://www.instagram.com/guilher_fnsilva/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://steamcommunity.com/profiles/76561198870472084/" target="_blank">
+  <!--<a href="https://steamcommunity.com/profiles/76561198870472084/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
-
+-->
   
-<!--  <a href="https://www.behance.net/guishhi" target="_blank">
+  <a href="https://www.behance.net/guishhi" target="_blank">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
 </a>
+
  <a href="https://github.com/guilherme039?tab=repositories">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/guilherme039?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-</a>  -->
+</a>  
   
   
 </div>
