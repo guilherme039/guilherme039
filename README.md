@@ -2,8 +2,7 @@
 
 **Desenvolvedor**
 
-Oi, sou o Guilherme! Estudante de Ciência da Computação, atuo no desenvolvimento Front-End, React, Flutter, Python e aplicações mobile. Busco sempre criar soluções com ferramentas de programação e design de interfaces (UI/UX) análise de dados para atender às necessidades de usuários e desenvolvedores. 
-
+ Ciência da Computação 
 <div align="center">
  <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-fernandes-nunes-7b98a7234/" target="_blank">
@@ -46,7 +45,7 @@ Oi, sou o Guilherme! Estudante de Ciência da Computação, atuo no desenvolvime
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
 <!-- Back-End -->
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
