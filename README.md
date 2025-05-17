@@ -15,13 +15,13 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
 -->
-  
+ <!-- 
   <a href="https://www.behance.net/guishhi" target="_blank">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-</a>
+</a> -->
 
  <a href="https://github.com/guilherme039?tab=repositories">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/guilherme039?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+ 
 </a>  
   
   
