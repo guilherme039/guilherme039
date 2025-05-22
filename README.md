@@ -5,13 +5,13 @@
  Ciência da Computação 
 <div align="center">
  <p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-fernandes-nunes-7b98a7234/" target="_blank">
+ <!-- <a href="https://www.linkedin.com/in/guilherme-fernandes-nunes-7b98a7234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/guilher_fnsilva/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!--<a href="https://steamcommunity.com/profiles/76561198870472084/" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561198870472084/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
 -->
