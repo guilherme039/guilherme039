@@ -1,8 +1,6 @@
 # 👤 Guilherme
 
-**Desenvolvedor**
 
- Ciência da Computação 
 <div align="center">
  <p align="left">
  <!-- <a href="https://www.linkedin.com/in/guilherme-fernandes-nunes-7b98a7234/" target="_blank">
